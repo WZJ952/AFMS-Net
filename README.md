@@ -24,7 +24,7 @@ You can download the pretrained Vit-S weights from the following link and put it
 ## Train & Evaluation
 ### Train & Evaluation on **University-1652**
 ```
-bash train.sh
+bash bash.sh
 ```
 * You can change the **data_dir** and **test_dir** to your own dataset paths in **bash.sh**. 
 
