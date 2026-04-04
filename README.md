@@ -31,9 +31,6 @@ bash total.sh
 ## TO-DO List
 
 - [ ] Support SUES-200 dataset
-- [ ] Support the evaluation for different levels of distance
-- [ ] Support ResNet-50 backbone
-- [ ] Adding the demo of FPM and FAM
 - [ ] ...
 
 ## Reference
