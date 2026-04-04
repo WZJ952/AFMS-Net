@@ -26,7 +26,7 @@ You can download the pretrained Vit-S weights from the following link and put it
 ```
 bash train.sh
 ```
-* You can change the **data_dir** and **test_dir** to your own dataset paths in **train.sh**. 
+* You can change the **data_dir** and **test_dir** to your own dataset paths in **bash.sh**. 
 
 ## TO-DO List
 
