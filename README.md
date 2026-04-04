@@ -39,8 +39,4 @@ bash total.sh
 ## Reference
 - **University-1652**: [pdf](https://arxiv.org/abs/2002.12186)|[code](https://github.com/layumi/University1652-Baseline)
 
-- **LPN**: [pdf](https://arxiv.org/abs/2008.11646)|[code](https://github.com/wtyhub/LPN)
 
-- **RK-Net**: [pdf](https://ieeexplore.ieee.org/document/9779991)|[code](https://github.com/AggMan96/RK-Net)
-
-- **FSRA**: [pdf](https://arxiv.org/abs/2201.09206)|[code](https://github.com/Dmmm1997/FSRA)
