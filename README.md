@@ -36,4 +36,5 @@ bash total.sh
 ## Reference
 - **University-1652**: [pdf](https://arxiv.org/abs/2002.12186)|[code](https://github.com/layumi/University1652-Baseline)
 
-
+## Request
+此代码与当前提交给《The Visual Computer》的稿件直接相关，非常希望能引用这篇相关稿件。
