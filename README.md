@@ -37,4 +37,4 @@ bash total.sh
 - **University-1652**: [pdf](https://arxiv.org/abs/2002.12186)|[code](https://github.com/layumi/University1652-Baseline)
 
 ## Request
-此代码与当前提交给《The Visual Computer》的稿件直接相关，非常希望能引用这篇相关稿件。
+This code is directly associated with the manuscript currently submitted to The Visual Computer (titled "Adaptive Frequency Enhancement and Multi-Scale Semantic Interaction for Robust Cross-View Geo-Localization"). We kindly encourage the citation of this related work.
