@@ -1,6 +1,6 @@
-# [SFPA-Net]Cross-View Geo-Localization via Adaptive Frequency-Domain Enhancement and Multi-scale Semantic Interaction
+# Adaptive Frequency Enhancement and Multi-Scale Semantic Interaction for Robust Cross-View Geo-Localization
 
-Code for SFPA-Net.
+Code for our model.
 
 ## Prerequisites
 
